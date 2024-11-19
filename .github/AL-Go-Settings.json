@@ -1,0 +1,8 @@
+{
+  "templateUrl": "https://github.com/businesscentralapps/tmpfOabYt-PTE@main",
+  "RepoName": "Privé",
+  "type": "PTE",
+  "runs-on": "ubuntu-latest",
+  "shell": "pwsh",
+  "MicrosoftTelemetryConnectionString": ""
+}
